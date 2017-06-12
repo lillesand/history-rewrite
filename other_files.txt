@@ -3,3 +3,5 @@ Some real work
 Did some work in a branch
 
 Some more work
+
+Work work in long living branch
